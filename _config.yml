@@ -1,4 +1,4 @@
-title: Your Title
+title: TechDuels
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "/techduels" # the subpath of your site, e.g. /blog
