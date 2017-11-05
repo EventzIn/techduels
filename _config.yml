@@ -1,4 +1,4 @@
-title: Your Title
+title: TechDuels
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "/techduels" # the subpath of your site, e.g. /blog
@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "/css/2016_style/img/icon-large.png"
+logo: "/css/2017_style/img/icon-large.png"
 
 social: 
   name: Your Facebook Page
